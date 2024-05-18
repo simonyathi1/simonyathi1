@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<!--START_SECTION: Simo's Waka Time capture-->
+<!--END_SECTION:waka Simo's Waka Time capture-->
