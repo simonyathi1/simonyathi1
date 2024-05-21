@@ -3,14 +3,15 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 17 May 2024 - To: 18 May 2024
+From: 17 May 2024 - To: 19 May 2024
 
-Total Time: 1 hr 42 mins
+Total Time: 1 hr 50 mins
 
-Dart             22 mins         >>>>>--------------------   21.29 %
-HTML             21 mins         >>>>>--------------------   20.08 %
-GitIgnore file   5 mins          >------------------------   05.10 %
-Other            2 mins          >------------------------   02.21 %
+Dart             22 mins         >>>>>--------------------   19.82 %
+HTML             21 mins         >>>>>--------------------   18.70 %
+JSON             8 mins          >>-----------------------   07.60 %
+GitIgnore file   5 mins          >------------------------   04.75 %
+Other            2 mins          >------------------------   02.06 %
 ```
 
 <!--END_SECTION:waka-->
