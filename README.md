@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 17 May 2024 - To: 30 December 2024
+From: 17 May 2024 - To: 01 January 2025
 
-Total Time: 24 hrs 41 mins
+Total Time: 24 hrs 43 mins
 
-Dart             19 hrs 21 mins  >>>>>>>>>>>>>>>>>>>>-----   78.27 %
-HTML             1 hr            >------------------------   04.10 %
-Text             35 mins         >------------------------   02.42 %
+Dart             19 hrs 21 mins  >>>>>>>>>>>>>>>>>>>>-----   78.20 %
+HTML             1 hr 1 min      >------------------------   04.17 %
+Text             35 mins         >------------------------   02.41 %
 Bash             16 mins         -------------------------   01.14 %
 GitIgnore file   6 mins          -------------------------   00.45 %
 Kotlin           5 mins          -------------------------   00.39 %
