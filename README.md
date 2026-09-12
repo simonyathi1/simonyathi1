@@ -3,18 +3,15 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 17 May 2024 - To: 09 September 2026
+From: 17 May 2024 - To: 10 September 2026
 
-Total Time: 31 hrs 53 mins
+Total Time: 33 hrs 14 mins
 
-Dart              19 hrs 38 mins        >>>>>>>>>>>>>>>----------   61.53 %
-Markdown          2 hrs 40 mins         >>-----------------------   08.36 %
-Kotlin            2 hrs 33 mins         >>-----------------------   08.00 %
-HTML              1 hr 6 mins           >------------------------   03.49 %
-Python            35 mins               -------------------------   01.87 %
-Text              35 mins               -------------------------   01.87 %
-PowerShell        24 mins               -------------------------   01.29 %
-Bash              22 mins               -------------------------   01.15 %
+Dart              19 hrs 38 mins        >>>>>>>>>>>>>>-----------   57.91 %
+Kotlin            2 hrs 54 mins         >>-----------------------   08.56 %
+Markdown          2 hrs 47 mins         >>-----------------------   08.24 %
+HTML              1 hr 6 mins           >------------------------   03.28 %
+Other             40 mins               >------------------------   02.00 %
 ```
 
 <!--END_SECTION:waka-->
